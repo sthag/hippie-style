@@ -26,11 +26,6 @@
 
 
 
-// Modules and variables
-// -----------------------------------------------------------------------------
-@import "modules/vendor";
-// @import modules/all deprecated because of the new vendor mixin
-
 // Basic styles - this is the core of definitions
 // Individual styles can be added her
 // -----------------------------------------------------------------------------
@@ -44,6 +39,8 @@
 @import "elements/embedded";
 @import "elements/tables";
 @import "elements/interactive";
+
+
 
 // Individual Modules and variables
 // in dependency to other styles
