@@ -2,9 +2,10 @@
 // ------------------------------------------------------------------------------
 
 .html_card {
-	@extend %h_content_full;
+	height: 100%;
 
 	body {
+		min-height: 100%;
 
 		.card_bkg {
 			@extend %full_parent;
