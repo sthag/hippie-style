@@ -1,2 +1,12 @@
+# hippie
+###################
+###################
+
+mixins/_sprite.scss
+
+
+
+# https://github.com/github/gitignore/blob/master/Sass.gitignore
+###################
 .sass-cache/
 *.css.map
